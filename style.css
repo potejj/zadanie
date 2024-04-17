@@ -1,0 +1,28 @@
+.button{
+    border-radius: 25px;
+    padding: 4px 8px ;
+    margin: 0px 16px;
+    border: 1px rgb(120, 212, 120) solid;
+    color: rgb(120, 212, 120);
+    transition: 0.4s;
+}
+
+.button:hover{
+    border-radius: 25px;
+    border: 1px rgb(255, 255, 255) solid;
+    padding: 4px 8px;
+    background-color: rgb(120, 212, 120);
+    color: white;
+    transition: 0.4s;
+}
+.image{
+    width: 200px;
+    height: 200px;
+}
+.name{
+    
+}
+.product{
+    width: 300px;
+    height: 400px;
+}
